@@ -13204,6 +13204,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "MEMS IMU\n"
+		(exclude_from_sim no)
+		(at 317.5 362.966 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1549f3dd-0538-4afa-b6c4-6cb3bd9b6186")
+	)
 	(junction
 		(at 425.45 137.16)
 		(diameter 0)
